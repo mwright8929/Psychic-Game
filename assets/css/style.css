@@ -1,0 +1,29 @@
+body{
+    background-image: url("../images/dark-paths.png");
+    background-repeat: repeat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
+.container{
+    border:5px solid goldenrod;
+    border-radius:5px;
+    background-image: url(../images/crystalball.jpg);
+    background-position: center;
+    background-size: 800px;
+    width:300px;
+    height:400px;
+    margin: 20px auto 0 auto;
+}
+
+p{
+    padding:10px;
+}
+
+h1{
+    padding:10px;
+    text-align:center;
+    font-weight: bold;
+    border-bottom:5px solid goldenrod;
+    color: aqua;
+}
